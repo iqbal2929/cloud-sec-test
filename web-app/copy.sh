@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 docker run -d \
 --name copy-web-app \
